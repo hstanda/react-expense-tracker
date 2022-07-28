@@ -1,4 +1,5 @@
 import "./Expenses.css";
+
 import ExpenseItem from "./ExpenseItem";
 const Expenses = (props) => {
   const items = props.items;
